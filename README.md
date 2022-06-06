@@ -13,10 +13,10 @@ It's right there in the title. I'm sick of Word, Inkscape, Photoshop, etc. I jus
 
 ## Progress
 
-- [] Database design
-- [] Built API 
-- [] Setup GitHub OAuth app
-- [] Setup Kafka on home LAN
-- [] Build integration to database from Kafka
-- [] Build integration to GitHub from Kafka
-- [] Update website to pull resume data from GitHub
+* [ ] Database design
+* [ ] Built API 
+* [ ] Setup GitHub OAuth app
+* [ ] Setup Kafka on home LAN
+* [ ] Build integration to database from Kafka
+* [ ] Build integration to GitHub from Kafka
+* [ ] Update website to pull resume data from GitHub
