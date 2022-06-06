@@ -11,4 +11,12 @@ It's right there in the title. I'm sick of Word, Inkscape, Photoshop, etc. I jus
 
 ![The general plan](./imgs/how-to-overengineer-your-resume.svg)
 
+## Progress
 
+[] Database design
+[] Built API 
+[] Setup GitHub OAuth app
+[] Setup Kafka on home LAN
+[] Build integration to database from Kafka
+[] Build integration to GitHub from Kafka
+[] Update website to pull resume data from GitHub
