@@ -14,8 +14,9 @@ It's right there in the title. I'm sick of Word, Inkscape, Photoshop, etc. I jus
 ## Progress
 
 * [ ] Database design
-* [ ] Built API 
+* [ ] Build API 
 * [ ] Setup GitHub OAuth app
+* [ ] Build Frontend
 * [ ] Setup Kafka on home LAN
 * [ ] Build integration to database from Kafka
 * [ ] Build integration to GitHub from Kafka
